@@ -149,6 +149,10 @@ If it is processing:
 
 # Install
 1. Clone this repository
+```bash
+git clone https://github.com/csouflis/object-detection-api.git
+cd object-detection-api
+```
 
 2. Install [docker](https://www.docker.com/get-started). If you already have, create the container with the command:
 ```bash
