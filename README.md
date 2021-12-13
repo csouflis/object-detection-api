@@ -170,9 +170,10 @@ http://localhost:8080/docs
 <img src=img/docs.gif>
 
 5. Check out the RabbitMQ Management Dashboard to see incoming request activity. 
-Default username:guest and password:guest
+<br> Default username: guest and password: guest </br>
 http://localhost:15672 
 <img src=img/rabbitmq_dash.png>
+(Sorry you can see part of docker desktop in my screenshot lol)
 
 6. Open the demo webapp and try the API!
 http://localhost/
